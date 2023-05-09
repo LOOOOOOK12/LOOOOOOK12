@@ -11,13 +11,11 @@
 
 - 🌱 I’m currently learning **C# Windows App**
 
-- 👨‍💻 All of my projects are available at [saka na](saka na)
-
-- 💬 Ask me about **saka na**
+- 💬 Ask me about **our Lord and Saviour Bocchi**
 
 - 📫 How to reach me **lukealamil12@gmail.com**
 
-- ⚡ Fun fact **WEEB**
+- ⚡ Fun fact **WEEB na programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
