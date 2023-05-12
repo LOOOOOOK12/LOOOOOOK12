@@ -1,3 +1,5 @@
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fy337iarlfnngdeacbwluesih4&cover_image=true&theme=default&show_offline=false&background_color=fd81e6&interchange=false&bar_color=fff700&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 <h1 align="center">Hi 👋, I'm Luke Symon Alamil</h1>
 <h3 align="center">Me still studying and learning programming...</h3>
