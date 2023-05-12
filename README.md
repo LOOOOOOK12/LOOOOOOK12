@@ -1,4 +1,4 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fy337iarlfnngdeacbwluesih4&cover_image=true&theme=default&show_offline=false&background_color=fd81e6&interchange=false&bar_color=fff700&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fy337iarlfnngdeacbwluesih4&cover_image=true&theme=default&show_offline=false&background_color=ffa8e4&interchange=false&bar_color=4754ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 <h1 align="center">Hi 👋, I'm Luke Symon Alamil</h1>
