@@ -1,10 +1,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31fy337iarlfnngdeacbwluesih4&cover_image=true&theme=default&show_offline=false&background_color=ffa8e4&interchange=false&bar_color=4754ff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<img align="right" alt="Me asf" width="500" src = "https://media.tenor.com/AfMj1IQE0pMAAAAC/bocchi-the-rock.gif">
-
-
 <h1 align="center">Hi 👋, I'm Luke Symon Alamil</h1>
 <h3 align="center">Me still studying and learning programming</h3>
+<img align="right" alt="Me asf" width="500" src = "https://media.tenor.com/AfMj1IQE0pMAAAAC/bocchi-the-rock.gif">
 
 - 🔭 I’m currently working on **A Voting System**
 
@@ -17,6 +15,7 @@
 - 📫 How to reach me **lukealamil12@gmail.com**
 
 - ⚡ Fun fact **WEEB**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
