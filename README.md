@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Luke Symon Alamil</h1>
 <h3 align="center">Me still studying and learning programming</h3>
 
-- 🔭 I’m currently working on **A Voting System**
+- 🔭 I’m currently **Studying**
 
-- 🌱 I’m currently learning **C# Windows App**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **lukealamil12@gmail.com**
 
