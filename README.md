@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **Studying**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript,React(basics)**
 
 - 📫 How to reach me **lukealamil12@gmail.com**
 
