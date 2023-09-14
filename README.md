@@ -13,7 +13,7 @@
 <div align = "center">
 <h2>⚙️ Tools and Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwind,vite,cs,java,python,php,mysql,visualstudio,vscode,eclipse,discord,github,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,react,bootstrap,tailwind,vite,cs,java,python,arduino,unity,mysql,visualstudio,vscode,eclipse,discord,github,git&perline=6)](https://skillicons.dev)
 
 </div>
 
