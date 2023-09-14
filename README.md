@@ -7,7 +7,7 @@
 <h1 align = "center"> 💻 Hello! I'm Luke Symon Alamil 💻</h1>
 
 <div align = "center">
-<p>I'm currently a student in STI College of Legazpi. Eager to learn Web development! </p>
+<p>I'm currently a student in STI College of Legazpi.! </p>
 </div>
 
 <div align = "center">
