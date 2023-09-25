@@ -19,7 +19,7 @@
 
 <div align = "center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LOOOOOOK12&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LOOOOOOK12&show_icon=true&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=LOOOOOOK12&theme=tokyonight)](https://git.io/streak-stats)
 
