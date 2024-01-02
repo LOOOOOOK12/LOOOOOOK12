@@ -8,7 +8,13 @@
 
 <div align = "center">
 <p>I'm currently a student in STI College of Legazpi! </p>
+
 </div>
+
+
+![](https://komarev.com/ghpvc/?username=LOOOOOOK12&color=blue)
+
+
 
 <div align = "center">
 <h2>⚙️ Tools and Languages</h2>
