@@ -8,7 +8,8 @@
 
 <div align = "center">
 <p>I'm currently a student in STI College of Legazpi! </p>
-
+  
+<p>To know more about me visit https://looooook.netlify.app </p>
 </div>
 
 
