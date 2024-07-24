@@ -9,7 +9,7 @@
 <div align = "center">
 <p>I'm currently a student in STI College of Legazpi! </p>
   
-<p>To know more about me visit https://my-portfolio-looooook12s-projects.vercel.app </p>
+<p>To know more about me visit [https://my-portfolio-looooook12s-projects.vercel.app](https://luke-alamil.vercel.app) </p>
 </div>
 
 
