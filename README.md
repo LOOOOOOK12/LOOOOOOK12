@@ -1,7 +1,7 @@
 <h1 align = "center"> 💻 Hello! I'm Luke Symon Alamil 💻</h1>
 
 <div align = "center">
-<p>🤖 Currently a Part-time Robotics Teacher in Divine Word College of legazpi 🤖</p>
+<p>🤖 Currently a Part-time Robotics Teacher in Divine Word College of legazpi and Software Developer Intern 🤖</p>
 <p>✍️ I'm currently learning Nextjs and Arduino!</p> 
 <p>To know more about me visit https://luke-alamil.vercel.app</p>
 </div>
